@@ -11,7 +11,7 @@ export default function App() {
       <Dictionary defaultKeyword="sunrise"/>
      </main>
      <footer className="App-footer">
-      Coded by Alona Pashko
+      Coded by Alona Pashko <a href="https://github.com/AlonaPashko/dictionary-react" target="_blank" rel="noreferrer">(open-sourced)</a>
      </footer>
       </div>
     </div>
