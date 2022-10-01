@@ -1,6 +1,8 @@
 .App{
   text-align: left;
   background: #f9f8fe;
+  max-width: 960px;
+  margin: 0 auto;
 }
 .App a{
   color:#9670f4;
